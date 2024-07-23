@@ -1,0 +1,202 @@
+.header {
+    height: 6vw;
+    padding-top: 1vw;
+}
+
+
+.logo {
+    width: 9vw;
+    height: 6vw;
+}
+
+.hu {
+    width: 2.5vw;
+    height: 2.5vw;
+}
+
+.ca {
+    width: 3vw;
+    height: 3vw;
+}
+
+.header-line {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    padding-right: 13vw;
+}
+
+.navigations {
+    padding-right: 17vw;
+}
+
+.nav-items1 {
+    color: #020202;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 7vw;
+    transition: 0.1s;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.nav-items1:hover {
+    border-bottom: solid;
+    padding-bottom: 1vw;
+}
+.nav-items2 {
+    color: #020202;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 7vw;
+    transition: 0.1s;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+.nav-items2:hover {
+    border-bottom: solid;
+    padding-bottom: 1vw;
+}
+.nav-items3 {
+    color: #020202;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 7vw;
+    transition: 0.1s;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+.nav-items3:hover {
+    border-bottom: solid;
+    padding-bottom: 1vw;
+}
+.nav-items4 {
+    color: #020202;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 3vw;
+    transition: 0.1s;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+.nav-items4:hover {
+    border-bottom: solid;
+    padding-bottom: 1vw;
+}
+.human {
+    padding-right: 2vw;
+}
+
+.lcab {
+    margin-top: 4vw;
+    font-size: 2vw;
+    margin-left: 4vw;
+    font-family: "Montserrat Alternates", sans-serif;
+    margin-bottom: 4vw;
+}
+
+.name1-2 {
+    margin-left: 4vw;
+    color: #E5A4A4;
+    font-size: 1.3vw;
+    margin-bottom: 1vw;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.name2 {
+    margin-left: 4vw;
+    color:black;
+    font-size: 1.3vw;
+    margin-bottom: 4vw;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.number {
+    margin-left: 4vw;
+    color: #E5A4A4;
+    font-size: 1.3vw;
+    margin-bottom: 1vw;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.numbers {
+    margin-left: 4vw;
+    color: black;
+    font-size: 1.3vw;
+    margin-bottom: 4vw;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.email {
+    margin-left: 4vw;
+    color: #E5A4A4;
+    font-size: 1.3vw;
+    margin-bottom: 1vw;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.pochta {
+    margin-left: 4vw;
+    color: black;
+    font-size: 1.3vw;
+    margin-bottom: 2vw;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.history {
+    text-decoration: none;
+    color: #020202;
+    font-family: "Montserrat Alternates", sans-serif;
+    margin-left: 80vw;
+    margin-top: -24vw;
+    display: flex;
+    font-size: 1.3vw;
+    transition: 0.4s;
+}
+
+.history:hover {
+    color: #e20000da;
+}
+
+.rassilka {
+    margin-left: 4vw;
+    color: #E5A4A4;
+    font-size: 1vw;
+    margin-bottom: 4vw;
+    text-decoration: none;
+    font-family: "Montserrat Alternates", sans-serif;
+    transition: 0.5s;
+}
+
+.rassilka:hover {
+    color:#020202;
+}
+
+.button {
+    margin-left: 80vw;
+    margin-right: 19vw;
+    margin-top: 0vw;
+}
+
+.buttons {
+    padding: 1vw 4vw;
+    text-decoration: none;
+    background-color: #020202;
+    color: #FFFFFF;
+    font-size: 1.5vw;
+    border-radius: 2vw;
+    font-family: "Montserrat Alternates", sans-serif;
+    transition: 0.9s;
+}
+
+.buttons:hover {
+    background-color: #ccb4b4;
+    color: #a72727;
+}
+ 

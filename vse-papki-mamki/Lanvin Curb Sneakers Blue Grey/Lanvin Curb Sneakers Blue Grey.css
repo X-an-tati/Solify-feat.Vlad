@@ -1,0 +1,458 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    height: 100vw;
+}
+
+.header {
+    height: 6vw;
+    padding-top: 1vw;
+}
+
+
+.logo {
+    width: 9vw;
+    height: 6vw;
+}
+
+.hu {
+    width: 2.5vw;
+    height: 2.5vw;
+}
+
+.ca {
+    width: 3vw;
+    height: 3vw;
+}
+
+.header-line {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    padding-right: 13vw;
+}
+
+.navigations {
+    padding-right: 17vw;
+}
+
+.nav-items1 {
+    color: #020202;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 7vw;
+    transition: 0.1s;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.nav-items1:hover {
+    border-bottom: solid;
+    padding-bottom: 1vw;
+}
+.nav-items2 {
+    color: #020202;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 7vw;
+    transition: 0.1s;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+.nav-items2:hover {
+    border-bottom: solid;
+    padding-bottom: 1vw;
+}
+.nav-items3 {
+    color: #020202;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 7vw;
+    transition: 0.1s;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+.nav-items3:hover {
+    border-bottom: solid;
+    padding-bottom: 1vw;
+}
+.nav-items4 {
+    color: #020202;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 1.2vw;
+    font-family: "Montserrat", sans-serif;
+    margin-right: 3vw;
+    transition: 0.1s;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+.nav-items4:hover {
+    border-bottom: solid;
+    padding-bottom: 1vw;
+}
+.human {
+    padding-right: 2vw;
+}
+
+.price {
+    margin-left: 55vw;
+    height: 40vw;
+    font-weight: 400;
+    font-size: 1.2vw;
+}
+
+.name-shoes {
+    font-size: 1vw;
+    font-family: "Montserrat Alternates", sans-serif;
+    margin-top: -30vw;
+
+}
+
+.name-heart {
+    
+    font-weight: 12vw;
+    transition: 0.4s;
+
+    filter: invert(0%) sepia(100%) saturate(14%) hue-rotate(273deg) brightness(104%) contrast(104%);
+}
+
+.name-heart:hover {
+    filter: invert(11%) sepia(95%) saturate(7200%) hue-rotate(1deg) brightness(99%) contrast(109%);
+}
+
+.heart-9060 {
+    height: 2vw;
+    width: 2vw;
+    margin-top: 1vw;
+    margin-left: 21vw;
+}
+
+
+.name-cen {
+    font-family: "Press Start 2P", system-ui;
+    margin-top: 1vw;
+    font-size: 1.2vw;   
+}
+table {
+    width: 23vw;
+    height: 10vw;
+    border-top: 0.3vw solid rgb(43, 129, 17);
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 2vw;
+    border: 0.1vw solid #dddddd;
+  }
+  
+  td {
+    text-align: left;
+      padding: 0.5vw;
+      border: 0.1vw solid rgb(0, 0, 0);
+
+      font-family: "Press Start 2P", system-ui;
+      font-size: 0.9vw;
+  }
+   tr {
+    text-align: center;
+    padding: 1vw;
+      border: 0.1vw solid rgb(0, 0, 0);
+   }
+
+   .Ru-Dota {
+    text-align: left;
+    padding: 0.5vw;
+    border: 0vw solid rgb(0, 0, 0);
+    font-family: "Press Start 2P", system-ui;
+    font-size: 0.9vw;
+   }
+
+.dostavka {
+    margin-top: 2vw;
+    margin-left: 0.5vw;
+}
+
+.button-dostavka {
+    text-decoration: none;
+    background-color: #020202;
+    color: #dddddd;
+    padding: 1vw 2vw;
+    font-family: "Press Start 2P", system-ui;
+    border-radius: 2vw;
+    font-size: 0.8vw;
+    transition: 0.6s;
+   }
+.button-dostavka:hover {
+    color: rgb(148, 66, 66);
+    background-color: #333333;
+}
+
+.dop-info {
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+}
+
+.poddtv-img1 {
+    margin-left: -21.7vw;
+    margin-top: 3vw;
+}
+.poddtv-img2 {
+    margin-left: -9vw;
+    margin-top: 1vw;
+    margin-right: -4vw;
+}
+.poddtv-img3 {
+    margin-left: -22.6vw;
+    margin-top: 1vw;
+    margin-right: -43vw;
+}
+
+.poddtv-img4 {
+    margin-left: -1.2vw;
+    margin-top: 1vw;
+    margin-right: -0.5vw;
+}
+.logo-poddtv {
+    width: 3vw;
+    height: 2vw;
+}
+
+.poddtv-txt1 {
+    text-decoration: none;
+    color: #020202;
+    font-family: "Montserrat Alternates", sans-serif;
+    margin-left: -40vw;
+    margin-top: 3vw;
+    font-size: 1vw;
+}
+.poddtv-txt2 {
+    text-decoration: none;
+    color: #020202;
+    font-family: "Montserrat Alternates", sans-serif;
+    margin-top: 1vw;
+    margin-left: -11.5vw;
+    font-size: 1vw;
+}
+.poddtv-txt3 {
+    text-decoration: none;
+    color: #020202;
+    font-family: "Montserrat Alternates", sans-serif;
+    margin-top: 1vw;
+    font-size: 1vw;
+
+
+}
+.poddtv-txt4 {
+    text-decoration: none;
+    color: #020202;
+    font-family: "Montserrat Alternates", sans-serif;
+    margin-top: 1vw;
+    font-size: 1vw;
+}
+
+.logo-poddtv2 {
+    width: 1.5vw;
+    height: 1.5vw;
+}
+.logo-poddtv3 {
+    width: 1.5vw;
+    height: 1.5vw;
+}
+.logo-poddtv4 {
+    width: 1.5vw;
+    height: 1.5vw;
+}
+
+
+.back {
+    height: 10vw;
+    margin-top: 4vw;
+    margin-left: -10vw;
+}
+
+.back-txt {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-size: 1vw;
+    margin-bottom: 1vw;
+    margin-left: -1vw;
+}
+
+.back-btn {
+    position: absolute;
+    display: flex;
+    margin-left: -1.4vw;
+    text-decoration: none;
+    color: white;
+    background-color: #020202;
+    font-family: "Montserrat Alternates", sans-serif;
+    padding: 1vw 4vw;
+    font-size: 0.9vw;
+    border-radius: 2vw;
+    transition: 0.6s;
+}
+
+.back-btn:hover {
+    color: rgb(148, 66, 66);
+    background-color: #333333;
+}
+
+
+.footer {
+    height: 42vw;
+    background-color: #231B1B;
+    margin-top: 1vw;
+    margin-left: -55vw;
+}
+
+.footer-soc {
+    margin-left: 78vw;
+    padding-top: 2vw;
+}
+
+.soc-img {
+    display: flex;
+}
+
+.images-soc {
+    margin-right: 4vw;
+    width: 3vw;
+}
+
+.big_table {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 1.2vw;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.small-table {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 0.8vw;
+    padding-bottom: -22vw;
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+.tables {
+    margin-left: 7vw;
+    margin-top: 4vw;
+    margin-right: 15vw;
+}
+
+.footer-table1 {
+    display: flex;
+}
+
+.top-tables {
+    margin-bottom: 2vw;
+}
+
+.bot-tables1 {
+    margin-bottom: 2vw;
+}
+.bot-tables2 {
+    margin-bottom: 2vw;
+}
+.bot-tables3 {
+    margin-bottom: 2vw;
+}
+.bot-tables4 {
+    margin-bottom: 2vw;
+}
+.bot-tables5 {
+    margin-bottom: 2vw;
+}
+
+.bot-tables6 {
+    margin-top: 9vw;
+}
+
+.zvezda-img {
+    position: absolute;
+    top: 38vw;
+    left: 5vw;
+    width: 4vw;
+}
+
+.zvezda-img2 {
+    position: absolute;
+    top: 45vw;
+    right: 0vw;
+    width: 8vw;
+}
+
+.zvezda-img3 {
+    position: absolute;
+    top: 74vw;
+    left: 0vw;
+    width: 11vw;
+}
+
+.zvezda-img4 {
+    position: absolute;
+    top: 144vw;
+    left: 30vw;
+    width: 5vw;
+}
+
+.zvezda-img5 {
+    position: absolute;
+    top: 160vw;
+    right: 0vw;
+    width: 8vw;
+}
+
+.zvezda-img6 {
+    position: absolute;
+    top: 175vw;
+    left: 0vw;
+    width: 22vw;
+}
+
+.zvezda-img7 {
+    position: absolute;
+    top: 204vw;
+    left: 33vw;
+    width: 34.5vw;
+}
+
+.zvezda-img8 {
+    position: absolute;
+    top: 185vw;
+    right: 0vw;
+    width: 15vw;
+}
+
+.logo-img1 {
+    position: absolute;
+    top: 96vw;
+    right: 0vw;
+    width: 8vw;
+}
+
+.slider {
+    position: relative;
+    width: 40vw;
+    height: 30vw;
+    overflow: hidden;
+    margin-top: 5vw;
+    margin-left: -50vw;
+  }
+   
+  .slide {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 1s;
+  }
+   
+  .slide:first-child {
+    opacity: 1;
+  }
+  
